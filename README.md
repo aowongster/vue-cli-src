@@ -1,6 +1,13 @@
-# vue-init-src
+# vue-cli-src
 
 > A Vue.js project
+
+```
+vue init webpack vue-cli-src
+cd vue-cli-src
+npm install
+npm run dev
+```
 
 ## Build Setup
 
