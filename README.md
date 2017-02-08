@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+The code in here is what you get when you run `vue init webpack vue-cli-src` with all the options toggled 'Y'. I wanted a place to see and poke through the files to help me learn vue-cli scaffolding better.
+
 ```
 vue init webpack vue-cli-src
 cd vue-cli-src
